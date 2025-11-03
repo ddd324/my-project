@@ -1,0 +1,3 @@
+Hello, this is a test file for vowel frequency analysis.
+It contains various vowels that will be counted by our Python script.
+The quick brown fox jumps over the lazy dog.
